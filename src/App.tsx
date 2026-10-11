@@ -3,7 +3,7 @@ import Hero from './components/Hero.jsx';
 import Specials from './components/Specials.jsx';
 import Testimonials from './components/Testimonials.jsx';
 import About from './components/About.jsx';
-import Visit from './components/Visit.jsx';
+import BookingPage from './components/BookingPage.jsx';
 import Footer from './components/Footer.jsx';
 
 export default function App() {
@@ -15,7 +15,7 @@ export default function App() {
         <Specials />
         <Testimonials />
         <About />
-        <Visit />
+        <BookingPage />
       </main>
       <Footer />
     </>

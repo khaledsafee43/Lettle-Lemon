@@ -6,6 +6,7 @@ const links = [
   ['Menu', '#menu'],
   ['Reviews', '#reviews'],
   ['Visit us', '#visit'],
+  ['Book', '#booking'],
 ];
 
 export default function Header() {
